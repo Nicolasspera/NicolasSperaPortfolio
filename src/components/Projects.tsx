@@ -48,7 +48,7 @@ const Projects = () => {
   const projects = [
     {
       title: 'Web Sorteos',
-      description: 'Desarrollo de una plataforma de sorteos que permite a los usuarios realizar pagos a través de la API de Mercado Pago...',
+      description: 'Desarrollo de una plataforma de sorteos que permite a los usuarios realizar pagos a través de la API de Mercado Pago. Cada transacción aprobada se registra automáticamente, generando chances en función del monto pagado. La aplicación permite realizar sorteos desde la interfaz web, modificar productos, eliminar registros de la base de datos y ajustar una barra de porcentaje, todo de manera automatizada y accesible para el usuario.',
       technologies: ['React', 'Node.js', 'MySQL', 'Mercado Pago API'],
       imageUrl: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-pasBPiB3xVEAOZEw9Vpbt3TeyYz8UV.png',
       url: 'https://premiosyonivaldez.com/'
